@@ -1,0 +1,4 @@
+User-agent: *
+Allow: /
+
+Sitemap: http://viequafieg.leiquanquan.cn/sitemap.xml
